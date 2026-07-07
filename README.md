@@ -30,6 +30,9 @@ O portfólio é composto pelas seguintes seções:
   - Git
   - GitHub
 
+- link do projeto
+- https://landing-page-six-neon-73.vercel.app/
+  
 - 📂 Projetos
 
 - 🎻 Curiosidades
